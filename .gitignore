@@ -1,4 +1,15 @@
-wp_env/
-.env
+# Python cache
 __pycache__/
 *.pyc
+
+# Virtual environment
+wp_env/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# VSCode settings
+.vscode/
